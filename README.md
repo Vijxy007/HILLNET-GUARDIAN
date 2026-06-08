@@ -83,7 +83,7 @@ Emergency SMS
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram/CIRCUIT DIAGRAM.jpg)
+![Circuit Diagram](circuit_diagram/circuit_diagram.jpg)
 
 ## SMS Alert Output
 
