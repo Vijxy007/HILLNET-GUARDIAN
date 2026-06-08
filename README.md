@@ -89,6 +89,10 @@ Emergency SMS
 
 ![SMS Alert](images/sms_alert.jpeg)
 
+## Project Documentation
+
+- Project Presentation: [HillNet_Guardian_Presentation.pptx](document/HillNet_Guardian_Presentation.pptx)
+
 ## Author
 
 Vijay T
