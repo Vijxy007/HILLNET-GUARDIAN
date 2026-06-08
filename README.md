@@ -77,6 +77,18 @@ Emergency SMS
 
 ---
 
+## Hardware Setup
+
+![Hardware Setup](images/complete_setup.jpeg)
+
+## Circuit Diagram
+
+![Circuit Diagram](circuit_diagram/CIRCUIT DIAGRAM.jpg)
+
+## SMS Alert Output
+
+![SMS Alert](images/sms_alert.jpeg)
+
 ## Author
 
 Vijay T
