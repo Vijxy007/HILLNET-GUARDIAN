@@ -81,6 +81,8 @@ Emergency SMS
 
 ![Hardware Setup](images/complete_setup.jpeg)
 
+![Hardware Setup](images/complete_setup_1.jpeg)
+
 ## Circuit Diagram
 
 ![Circuit Diagram](circuit_diagram/Circuit_Diagram.jpg)
