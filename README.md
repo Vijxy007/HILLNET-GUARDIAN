@@ -79,8 +79,6 @@ Emergency SMS
 
 ## Hardware Setup
 
-![Hardware Setup](images/complete_setup.jpeg)
-
 ![Hardware Setup](images/complete_setup_1.jpeg)
 
 ## Circuit Diagram
