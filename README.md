@@ -79,7 +79,7 @@ Emergency SMS
 
 ## Hardware Setup
 
-![Hardware Setup](images/complete_setup_1.jpeg)
+![Hardware Setup](images/complete_setup.jpeg)
 
 ## Circuit Diagram
 
